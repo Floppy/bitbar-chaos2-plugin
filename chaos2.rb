@@ -5,7 +5,7 @@ require 'json'
 
 username = "" # Your A&A control pages username
 password = "" # Your A&A control pages password
-service = "" # Your A&A service ID
+service = "" # Your A&A service ID - see README
 base_url = "https://chaos2.aa.net.uk"
 
 url = "#{base_url}/broadband/quota?control_login=#{username}&control_password=#{password}&service=#{service}"
