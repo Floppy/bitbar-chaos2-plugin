@@ -1,10 +1,11 @@
 # bitbar-chaos2-plugin
 
-A CHAOS2 plugin for BitBar to show remaining broadband quota. Most likely for Andrews &amp; Arnold subscribers.
+A [CHAOS2](http://aa.net.uk/pdf/CHAOS2.pdf) plugin for [BitBar](https://getbitbar.com/) to show remaining broadband quota. Most likely useful for [Andrews &amp; Arnold](http://aa.net.uk/) subscribers.
 
 ## Installation
 
-Copy chaos2.rb into your BitBar plugins directory.
+* Install [BitBar](https://getbitbar.com/).
+* Copy chaos2.rb into your BitBar plugins directory.
 
 ## Configuration
 
